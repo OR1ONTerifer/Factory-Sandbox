@@ -15,3 +15,14 @@ Upgrader buildings
 
 Save game (probably not tho)
 
+## Controls (will be removed after tutorial is released):
+
+W, A, S, D: Movement
+
+R: Rotate building
+
+Left Mouse: Place building
+
+Right Mouse: Destroy building
+
+Shift: Multi-place
